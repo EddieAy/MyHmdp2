@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 代码使用说明(本项目来自b站[黑马程序员](https://space.bilibili.com/37974444)[redis教程](https://www.bilibili.com/video/BV1cr4y1671t)，仅供参考)
 
 项目代码包含2个分支：
@@ -30,7 +29,3 @@ NOGROUP No such key 'stream.orders' or consumer group 'g1' in XREADGROUP with GR
 ```text
 XGROUP CREATE stream.orders g1 $ MKSTREAM
 ```
-=======
-# MyHmdp2
-Second time
->>>>>>> 8b048f432084296d0cbe1f0d84b0e412ed2a8504
