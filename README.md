@@ -29,3 +29,4 @@ NOGROUP No such key 'stream.orders' or consumer group 'g1' in XREADGROUP with GR
 ```text
 XGROUP CREATE stream.orders g1 $ MKSTREAM
 ```
+### 3.没什么更新的 小混一下
